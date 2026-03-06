@@ -1,6 +1,3 @@
-{
-https://yazdou.itch.io/haunted-sacred-update
-
 Skip to main content
 itch.ioitch.io logo
 Dashboard
@@ -12,7 +9,6 @@ Published
 
 yazdou
 
-https://yazdou.itch.io/haunted-sacred-update
 Espilègle
 Espilègle:
 Plongez dans l’univers ouvert d’Espilègle, une cité dominée par les Holos. La découverte de mystérieuses pierres attise la convoitise des Infinitrax, un peuple spatial révolté par le refus des Holos de coopérer. Leur riposte ? Créer une arme ultime : un trou noir vivant, capable de semer la destruction. La tension atteint son paroxysme… En vous glissant dans l’essence même du trou noir, choisirez-vous d’anéantir l’espèce Holo ou de sceller une alliance inattendue avec eux ?
@@ -53,4 +49,3 @@ Embed
 ·
 Updated 57 days ago
 Games › Platformer › Free
-}
