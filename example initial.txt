@@ -1,16 +1,10 @@
 {
-https://yazdou.itch.io/haunted-sacred-update
 
-Skip to main content
-itch.ioitch.io logo
-Dashboard
-Edit game
-Analytics very use full
-Widget
-Edit theme
-Published
+{
+     show in https://yazdou.itch.io/haunted-sacred-update
+}
 
-yazdou
+create by yazdou
 
 https://yazdou.itch.io/haunted-sacred-update
 Espilègle
@@ -41,16 +35,22 @@ Ardente & Furniture Update
 Jan 08, 2025
 Appocalypse&Sky Update
 Nov 02, 2024
-Community
-
-itch.io
-·
-View all by yazdou
-·
-Report
-·
-Embed
-·
-Updated 57 days ago
-Games › Platformer › Free
 }
+
+intro 
+
+Espilègle:
+Plongez dans l’univers ouvert d’Espilègle, une cité dominée par les Holos. La découverte de mystérieuses pierres attise la convoitise des Infinitrax, un peuple spatial révolté par le refus des Holos de coopérer. Leur riposte ? Créer une arme ultime : un trou noir vivant, capable de semer la destruction. La tension atteint son paroxysme… En vous glissant dans l’essence même du trou noir, choisirez-vous d’anéantir l’espèce Holo ou de sceller une alliance inattendue avec eux ?
+
+"Dive into the open world of Espilègle, a city ruled by the Holos. The discovery of mysterious stones sparks the greed of the Infinitrax, a spacefaring people outraged by the Holos’ refusal to cooperate. Their response? To forge the ultimate weapon: a living black hole, capable of unleashing pure destruction. As tensions reach their peak… By stepping into the very essence of the black hole, will you choose to annihilate the Holo species, or forge an unexpected alliance with them?
+
+mise à jour 
+Espilègle Update #11 Haunted & Sacred Update.exe
+234 MB
+Espilègle Update #10 Inhabit & Map Update.exe
+227 MB
+Espilègle Update #9 Ardente Update Part 2.exe
+187 MB
+Espiègle Update #8 Ardente & Furniture Update.exe
+141 MB
+
